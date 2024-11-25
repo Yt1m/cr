@@ -1,0 +1,5 @@
+C:\Users\omarov-r\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\omarov-r\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\omarov-r\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\omarov-r\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\omarov-r\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
