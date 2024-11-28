@@ -1,0 +1,23 @@
+﻿<Window x:Class="MusicStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Главное окно музыкального магазина" Height="450" Width="800">
+    <Grid>
+        <!-- Меню -->
+        <Menu>
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход" Click="ExitMenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="Таблицы">
+                <MenuItem Header="Музыкальные произведения" Click="ShowMusicalWorks_Click"/>
+                <MenuItem Header="Ансамбли" Click="ShowEnsembles_Click"/>
+                <MenuItem Header="Пластинки" Click="ShowRecords_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Контент будет изменяться в зависимости от выбора в меню -->
+        <ContentControl x:Name="MainContent" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+    </Grid>
+</Window>
+    

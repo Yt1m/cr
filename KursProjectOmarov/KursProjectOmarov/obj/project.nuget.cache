@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/Il63B6MWk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omarov-r\\source\\repos\\KursProjectOmarov\\KursProjectOmarov\\KursProjectOmarov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omarov-r\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\omarov-r\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\omarov-r\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

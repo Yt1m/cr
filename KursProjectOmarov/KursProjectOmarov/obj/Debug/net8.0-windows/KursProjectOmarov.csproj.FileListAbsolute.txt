@@ -1,0 +1,6 @@
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\KursProjectOmarov.csproj.AssemblyReference.cache
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\App.baml
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\omarov-r\source\repos\KursProjectOmarov\KursProjectOmarov\obj\Debug\net8.0-windows\KursProjectOmarov_MarkupCompile.cache
